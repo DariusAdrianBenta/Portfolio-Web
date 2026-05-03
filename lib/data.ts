@@ -179,7 +179,7 @@ export const techStack: TechCategory[] = [
   {
     title: "Backend",
     description: "Núcleo del desarrollo de APIs y lógica de negocio",
-    items: ["Java", "Spring Boot", "Hibernate / JPA", "REST APIs"],
+    items: ["Java", "Spring Boot", "Hibernate / JPA", "REST APIs", "VB.NET", "PHP"],
   },
   {
     title: "Frontend",
